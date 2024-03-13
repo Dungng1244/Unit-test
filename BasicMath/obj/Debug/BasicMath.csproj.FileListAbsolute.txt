@@ -1,0 +1,7 @@
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\bin\Debug\BasicMath.exe.config
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+D:\Tai_lieu_hoc_tap\Ki 2 2023-2024\Test\New folder\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
